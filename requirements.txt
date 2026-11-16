@@ -1,0 +1,7 @@
+shiny
+yfinance
+pandas
+numpy
+matplotlib
+vollib==1.0.11
+exchange-calendars
