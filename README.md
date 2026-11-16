@@ -14,3 +14,5 @@ Use Refresh daily prices on first launch, then Run analysis.
 The prices are taken from the latest prices from yfinance
 
 Assumptions: zero dividends, historical volatility, and an arbitrary interest rate (can be manually modified). Numerical checks establish computational consistency, not market-price accuracy. This is just a simple prototype to better help me understand how a platform like this might work.
+
+I also want to specify that this project was done with the help of AI (OpenAI Codex).
